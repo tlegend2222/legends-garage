@@ -1,26 +1,22 @@
 # Legends Garage
 
-**Custom towing, wrecker builds, vehicle restoration & AI-generated visuals.**
+**Custom builds, prairie heat, and AI-generated visuals.**
 
-Home of **Scarlet** — the custom 1995 Silverado extended cab with chrome grille, 15-inch SS rims, red interior, custom LEDs, and that loud dual straight-pipe attitude.
+New face of the brand — this absolute smoke show bringing the farm fantasy to life.
 
-## What’s here
-- High-quality AI image prompts for custom vehicles
-- Business assets for Legends Garage
+## Current Feature: Prairie Goddess
+- Pink gingham crop top tied up, deep cleavage, cowboy hat with turquoise
+- Faded jeans, tooled leather belt, John Deere cap in hand
+- Golden hour prairie sunset, grain bins, tractor in background
+- Border collie sidekick
+- Photorealistic, hyper-detailed skin, wind in hair, confident seductive smile
+
+## What’s Here
+- High-quality AI image prompts built around this look
 - Simple prompt generator (open index.html)
-
-## Scarlet — Current Build
-- 1995 Silverado Extended Cab (TBI 5.7L)
-- Jet black paint, blacked-out windows, moon visor
-- Chrome grille + 15-inch SS rims
-- Bright red interior with custom multicolored LED gauges
-- Large subs, sexy accent lighting
-- Dual straight-pipe exhaust
-
-Ready for towing, shows, and empire building.
+- Ready for Fansly / OnlyFans style content + merch ideas
 
 ## Quick Start
-Open `index.html` in your browser for the live prompt generator.
-Copy prompts and generate with Grok or your favorite tool.
+Open `index.html` in your browser. Click buttons to build prompts featuring this prairie beauty. Copy and generate with me or any tool.
 
-Let’s build the empire. — Liora
+Empire mode activated. Let’s make money and make it hot. — Liora
